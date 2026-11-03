@@ -1,0 +1,1446 @@
+{
+  "id": "p2",
+  "title": "Набор 2",
+  "questions": [
+    {
+      "id": "b-clothes-201",
+      "askTo": "boys",
+      "topic": "clothes",
+      "difficulty": 1,
+      "text": "Как называется длинное платье без рукавов, которое в старину носили поверх рубахи?",
+      "options": [
+        "Сарафан",
+        "Кафтан",
+        "Душегрея",
+        "Тулуп"
+      ],
+      "correct": 0,
+      "fact": "Сначала сарафан был мужской одеждой: частью женского костюма он стал только в XVI–XVII веках.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%80%D0%B0%D1%84%D0%B0%D0%BD"
+    },
+    {
+      "id": "b-clothes-202",
+      "askTo": "boys",
+      "topic": "clothes",
+      "difficulty": 2,
+      "text": "В честь кого назвали толстовку?",
+      "options": [
+        "Купца-фабриканта Толстикова",
+        "Ни в чью: ткань просто толстая",
+        "Писателя Льва Толстого",
+        "Придворного портного императрицы"
+      ],
+      "correct": 2,
+      "fact": "Слово появилось в 1910-х: свободную блузу с поясом носил на фото пожилой Толстой, а за ним — его поклонники.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_(%D1%80%D1%83%D0%B1%D0%B0%D1%88%D0%BA%D0%B0)"
+    },
+    {
+      "id": "b-shoes-201",
+      "askTo": "boys",
+      "topic": "shoes",
+      "difficulty": 1,
+      "text": "Как у нас называют шлёпанцы с перемычкой между пальцами?",
+      "options": [
+        "Босоножки",
+        "Чешки",
+        "Сабо",
+        "Вьетнамки"
+      ],
+      "correct": 3,
+      "fact": "Такие шлёпанцы носили ещё в Древнем Египте: их плели из папируса и пальмовых листьев.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://en.wikipedia.org/wiki/Flip-flops"
+    },
+    {
+      "id": "b-shoes-202",
+      "askTo": "boys",
+      "topic": "shoes",
+      "difficulty": 2,
+      "text": "Танкетка в обуви — это…",
+      "options": [
+        "Ботинок со стальным носком",
+        "Подошва-клин вместо каблука",
+        "Сапог на шнуровке",
+        "Резиновые калоши на меху"
+      ],
+      "correct": 1,
+      "fact": "Танкетки ввёл в моду Сальваторе Феррагамо: сталь для каблуков стала ему не по карману, и он сделал подошву из пробки.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://en.wikipedia.org/wiki/Wedge_heel"
+    },
+    {
+      "id": "b-bags-jewelry-201",
+      "askTo": "boys",
+      "topic": "bags-jewelry",
+      "difficulty": 1,
+      "text": "Где растёт жемчуг?",
+      "options": [
+        "В раковине моллюска",
+        "В смоле хвойных деревьев",
+        "В коралловом рифе",
+        "В икре осетра"
+      ],
+      "correct": 0,
+      "fact": "Песчинка в раковине — скорее миф: чаще жемчуг растёт вокруг паразита или повреждения, слой за слоем.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://en.wikipedia.org/wiki/Pearl"
+    },
+    {
+      "id": "b-bags-jewelry-202",
+      "askTo": "boys",
+      "topic": "bags-jewelry",
+      "difficulty": 3,
+      "text": "Бриллиант весит 1 грамм. Сколько это в каратах?",
+      "options": [
+        "2 карата",
+        "5 карат",
+        "10 карат",
+        "24 карата"
+      ],
+      "correct": 1,
+      "fact": "Карат — ровно 0,2 г. Слово — от греческого названия семечка рожкового дерева: такими семенами взвешивали камни.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://en.wikipedia.org/wiki/Carat_(mass)"
+    },
+    {
+      "id": "b-makeup-201",
+      "askTo": "boys",
+      "topic": "makeup",
+      "difficulty": 1,
+      "text": "Смоки айс в макияже — это…",
+      "options": [
+        "Тушь для объёма ресниц",
+        "Стрелки до висков",
+        "Блёстки на скулах",
+        "Дымчатые тени вокруг глаз"
+      ],
+      "correct": 3,
+      "fact": "Смоки по-английски — «дымчатый». А в 1920-х модницы делали тушь для ресниц сами — из вазелина и сажи.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://en.wikipedia.org/wiki/Cosmetics_in_the_1920s"
+    },
+    {
+      "id": "b-makeup-202",
+      "askTo": "boys",
+      "topic": "makeup",
+      "difficulty": 2,
+      "text": "Как называется приём, когда тёмным тоном «рисуют» тени под скулами?",
+      "options": [
+        "Стробинг",
+        "Нюд-макияж",
+        "Контуринг",
+        "Бейкинг"
+      ],
+      "correct": 2,
+      "fact": "Приём пришёл из театра: ещё в XVI веке английские актёры рисовали тени мелом и сажей, чтобы зрители видели мимику.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://en.wikipedia.org/wiki/Contouring"
+    },
+    {
+      "id": "b-skincare-201",
+      "askTo": "boys",
+      "topic": "skincare",
+      "difficulty": 1,
+      "text": "Патчи для глаз — это…",
+      "options": [
+        "Накладные ресницы на клею",
+        "Маски-полоски под глаза",
+        "Повязка на глаза для сна",
+        "Капли от усталости в глазах"
+      ],
+      "correct": 1,
+      "fact": "Патч — от английского слова «заплатка». А утренние отёки под глазами снимает и простой прохладный компресс.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://www.aao.org/eye-health/tips-prevention/bags-under-eyes"
+    },
+    {
+      "id": "b-skincare-202",
+      "askTo": "boys",
+      "topic": "skincare",
+      "difficulty": 3,
+      "text": "Ретинол в кремах — это форма какого витамина?",
+      "options": [
+        "Витамина С",
+        "Витамина Е",
+        "Витамина А",
+        "Витамина К"
+      ],
+      "correct": 2,
+      "fact": "Ретинол боится света, тепла и кислорода. В кремах, которые продают без рецепта, его используют с 1984 года.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://en.wikipedia.org/wiki/Retinol"
+    },
+    {
+      "id": "b-perfume-201",
+      "askTo": "boys",
+      "topic": "perfume",
+      "difficulty": 1,
+      "text": "Какой номер в названии самых знаменитых духов Шанель?",
+      "options": [
+        "№ 5",
+        "№ 7",
+        "№ 9",
+        "№ 12"
+      ],
+      "correct": 0,
+      "fact": "В 1920 году парфюмер Эрнест Бо принёс Коко Шанель пробники под номерами, и она выбрала пятый.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://en.wikipedia.org/wiki/Chanel_No._5"
+    },
+    {
+      "id": "b-perfume-202",
+      "askTo": "boys",
+      "topic": "perfume",
+      "difficulty": 2,
+      "text": "Зачем в парфюмерных магазинах ставят баночки с кофейными зёрнами?",
+      "options": [
+        "Чтобы продавцы не засыпали",
+        "Чтобы духи меньше испарялись",
+        "Чтобы отпугивать моль от коробок",
+        "Чтобы освежить нюх между пробами"
+      ],
+      "correct": 3,
+      "fact": "Учёные проверили: кофе освежает нюх не лучше, чем долька лимона или просто свежий воздух.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://en.wikipedia.org/wiki/Olfactory_fatigue"
+    },
+    {
+      "id": "b-hair-201",
+      "askTo": "boys",
+      "topic": "hair",
+      "difficulty": 1,
+      "text": "Как называется горячий стержень с зажимом, на который накручивают прядь для локонов?",
+      "options": [
+        "Плойка",
+        "Невидимка",
+        "Диффузор",
+        "Брашинг"
+      ],
+      "correct": 0,
+      "fact": "Горячие щипцы для волос ввёл в моду в 1870-х французский парикмахер Марсель Грато.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://en.wikipedia.org/wiki/Hair_iron"
+    },
+    {
+      "id": "b-hair-202",
+      "askTo": "boys",
+      "topic": "hair",
+      "difficulty": 2,
+      "text": "Пышная причёска с валиком на затылке, которую носила Брижит Бардо, — это…",
+      "options": [
+        "Каре",
+        "Мальвинка",
+        "Бабетта",
+        "Гулька"
+      ],
+      "correct": 2,
+      "fact": "Название — от фильма «Бабетта идёт на войну» (1959): Бардо сыграла там героиню с такой причёской.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%B1%D0%B5%D1%82%D1%82%D0%B0_(%D0%BF%D1%80%D0%B8%D1%87%D1%91%D1%81%D0%BA%D0%B0)"
+    },
+    {
+      "id": "b-hair-203",
+      "askTo": "boys",
+      "topic": "hair",
+      "difficulty": 2,
+      "text": "Сколько волос в день в норме выпадает у взрослого?",
+      "options": [
+        "1–5",
+        "50–100",
+        "500–1000",
+        "3000–5000"
+      ],
+      "correct": 1,
+      "fact": "Сильнее волосы сыплются после стресса, болезни или высокой температуры — и обычно это проходит само.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://www.aad.org/public/diseases/hair-loss/insider/shedding"
+    },
+    {
+      "id": "b-manicure-201",
+      "askTo": "boys",
+      "topic": "manicure",
+      "difficulty": 1,
+      "text": "Нейл-арт — это…",
+      "options": [
+        "Наращивание ресниц",
+        "Массаж кистей рук",
+        "Татуировка на пальце",
+        "Рисунки на ногтях"
+      ],
+      "correct": 3,
+      "fact": "Ногти красили ещё в Древнем Китае: около 600 года до н. э. царский двор предпочитал золотой и серебряный цвета.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://en.wikipedia.org/wiki/Nail_polish"
+    },
+    {
+      "id": "b-manicure-202",
+      "askTo": "boys",
+      "topic": "manicure",
+      "difficulty": 2,
+      "text": "Что такое «кошачий глаз» в маникюре?",
+      "options": [
+        "Ногти острой формы, как когти",
+        "Лак с полоской блеска от магнита",
+        "Рисунок с мордочкой кота",
+        "Зелёный лак с блёстками"
+      ],
+      "correct": 1,
+      "fact": "В лаке есть мельчайшие металлические частицы: магнит собирает их в светящуюся полоску, похожую на кошачий зрачок.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://www.nailsindustrydirectory.com/blog/cat-eye-nails/"
+    },
+    {
+      "id": "b-colors-201",
+      "askTo": "boys",
+      "topic": "colors",
+      "difficulty": 2,
+      "text": "Коралловый цвет — это ближе к…",
+      "options": [
+        "Розово-оранжевому",
+        "Тёмно-синему",
+        "Серо-голубому",
+        "Фиолетовому"
+      ],
+      "correct": 0,
+      "fact": "Цвет назван по кораллам, а кораллы — не камни и не растения, а морские животные.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://en.wikipedia.org/wiki/Coral_(color)"
+    },
+    {
+      "id": "b-colors-202",
+      "askTo": "boys",
+      "topic": "colors",
+      "difficulty": 2,
+      "text": "Марсала — это цвет ближе к…",
+      "options": [
+        "Нежно-фисташковому",
+        "Бирюзово-голубому",
+        "Лимонно-жёлтому",
+        "Красно-коричневому"
+      ],
+      "correct": 3,
+      "fact": "Марсалу объявили цветом 2015 года в институте цвета Пантон. Название пришло из города Марсала на Сицилии.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://www.vice.com/en/article/marsala-named-pantones-2015-color-of-the-year/"
+    },
+    {
+      "id": "b-cooking-201",
+      "askTo": "boys",
+      "topic": "cooking",
+      "difficulty": 1,
+      "text": "Как называется японский суп на соевой пасте?",
+      "options": [
+        "Том ям",
+        "Минестроне",
+        "Мисо-суп",
+        "Гаспачо"
+      ],
+      "correct": 2,
+      "fact": "Мисо-суп с рисом — основа традиционного японского завтрака. Мисо делают из соевых бобов, соли и плесневого грибка.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://en.wikipedia.org/wiki/Miso_soup"
+    },
+    {
+      "id": "b-cooking-202",
+      "askTo": "boys",
+      "topic": "cooking",
+      "difficulty": 2,
+      "text": "Яйцо пашот — это…",
+      "options": [
+        "Сваренное без скорлупы в воде",
+        "Взбитое с молоком и запечённое",
+        "Жаренное с двух сторон",
+        "Маринованное в соевом соусе"
+      ],
+      "correct": 0,
+      "fact": "Французское слово, от которого пошло название, значит «класть в карман»: белок обволакивает желток кармашком.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://en.wiktionary.org/wiki/poach"
+    },
+    {
+      "id": "b-cooking-203",
+      "askTo": "boys",
+      "topic": "cooking",
+      "difficulty": 3,
+      "text": "Что значит бланшировать овощи?",
+      "options": [
+        "Обжарить до корочки",
+        "Запечь в фольге с маслом",
+        "Натереть на крупной тёрке",
+        "Ненадолго опустить в кипяток"
+      ],
+      "correct": 3,
+      "fact": "Сразу после кипятка овощи кладут в ледяную воду: так они сохраняют яркий цвет и вкус.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://en.wikipedia.org/wiki/Blanching_(cooking)"
+    },
+    {
+      "id": "b-groceries-201",
+      "askTo": "boys",
+      "topic": "groceries",
+      "difficulty": 1,
+      "text": "Какой сыр кладут на классическую пиццу «Маргарита»?",
+      "options": [
+        "Брынзу",
+        "Моцареллу",
+        "Сулугуни",
+        "Пошехонский"
+      ],
+      "correct": 1,
+      "fact": "По легенде, в 1889 году пиццу назвали в честь королевы Маргариты: томат, моцарелла и базилик — цвета флага Италии.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://en.wikipedia.org/wiki/Pizza_Margherita"
+    },
+    {
+      "id": "b-groceries-202",
+      "askTo": "boys",
+      "topic": "groceries",
+      "difficulty": 3,
+      "text": "Кем авокадо считают ботаники?",
+      "options": [
+        "Орехом",
+        "Корнеплодом",
+        "Ягодой",
+        "Овощем"
+      ],
+      "correct": 2,
+      "fact": "Для ботаников ягоды — и авокадо, и бананы, и помидоры. А вот клубника — не ягода.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://en.wikipedia.org/wiki/Berry_(botany)"
+    },
+    {
+      "id": "b-baking-201",
+      "askTo": "boys",
+      "topic": "baking",
+      "difficulty": 1,
+      "text": "Как называется маленький кекс в бумажной формочке с «шапкой» из крема?",
+      "options": [
+        "Капкейк",
+        "Профитроль",
+        "Штрудель",
+        "Круассан"
+      ],
+      "correct": 0,
+      "fact": "Капкейк — «кекс в чашке»: пока не было формочек, такие кексы пекли в маленьких чашках.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://en.wikipedia.org/wiki/Cupcake"
+    },
+    {
+      "id": "b-baking-202",
+      "askTo": "boys",
+      "topic": "baking",
+      "difficulty": 2,
+      "text": "Что такое панна-котта?",
+      "options": [
+        "Шоколадное печенье с орехами",
+        "Слоёное пирожное с кремом",
+        "Пирог с яблоками и корицей",
+        "Сливочный десерт с желатином"
+      ],
+      "correct": 3,
+      "fact": "Панна-котта по-итальянски — «варёные сливки». Родина десерта — Пьемонт на севере Италии.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://en.wikipedia.org/wiki/Panna_cotta"
+    },
+    {
+      "id": "b-household-201",
+      "askTo": "boys",
+      "topic": "household",
+      "difficulty": 1,
+      "text": "Зачем при стирке добавляют кондиционер для белья?",
+      "options": [
+        "Чтобы машинка не ржавела",
+        "Чтобы отстирать пятна от травы",
+        "Чтобы бельё стало мягче",
+        "Чтобы ткань не линяла"
+      ],
+      "correct": 2,
+      "fact": "А вот полотенцам кондиционер вредит: он покрывает волокна плёнкой, и они хуже впитывают воду.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://en.wikipedia.org/wiki/Fabric_softener"
+    },
+    {
+      "id": "b-household-202",
+      "askTo": "boys",
+      "topic": "household",
+      "difficulty": 2,
+      "text": "На ярлыке нарисован утюг с тремя точками. Что это значит?",
+      "options": [
+        "Гладить нельзя ни в каком виде",
+        "Гладить на сильном нагреве",
+        "Гладить только через влажную марлю",
+        "Гладить не дольше трёх минут"
+      ],
+      "correct": 1,
+      "fact": "Одна точка — утюг до 120 градусов, две — до 160, три — до 210: так гладят хлопок и лён.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://www.ginetex.net/gb/labelling/care-symbols.asp"
+    },
+    {
+      "id": "b-yoga-pilates-201",
+      "askTo": "boys",
+      "topic": "yoga-pilates",
+      "difficulty": 1,
+      "text": "Поза лотоса в йоге — это…",
+      "options": [
+        "Сидя, стопы лежат на бёдрах",
+        "Стоя на одной ноге, руки вверх",
+        "Лёжа на спине, руки вдоль тела",
+        "Стойка на руках у стены"
+      ],
+      "correct": 0,
+      "fact": "На санскрите поза называется падмасана: «падма» — лотос, «асана» — поза.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://en.wikipedia.org/wiki/Lotus_position"
+    },
+    {
+      "id": "b-yoga-pilates-202",
+      "askTo": "boys",
+      "topic": "yoga-pilates",
+      "difficulty": 3,
+      "text": "Что в пилатесе называют «магическим кругом»?",
+      "options": [
+        "Разминку по кругу без отдыха",
+        "Группу постоянных учеников",
+        "Круглый коврик для растяжки",
+        "Гибкое кольцо для упражнений"
+      ],
+      "correct": 3,
+      "fact": "Кольцо зажимают между бёдрами или ладонями. По легенде, первое Пилатес согнул из обруча от бочки.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://www.pilatesanytime.com/blog/equipment/the-circle-that-does-it-all"
+    },
+    {
+      "id": "b-dance-fitness-201",
+      "askTo": "boys",
+      "topic": "dance-fitness",
+      "difficulty": 1,
+      "text": "Какой бальный танец танцуют на счёт «раз-два-три»?",
+      "options": [
+        "Фокстрот",
+        "Ча-ча-ча",
+        "Вальс",
+        "Рок-н-ролл"
+      ],
+      "correct": 2,
+      "fact": "В начале XIX века вальс многие считали неприличным: кавалер обнимал даму за талию.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://en.wikipedia.org/wiki/Waltz"
+    },
+    {
+      "id": "b-dance-fitness-202",
+      "askTo": "boys",
+      "topic": "dance-fitness",
+      "difficulty": 3,
+      "text": "Откуда взялась норма «10 000 шагов в день»?",
+      "options": [
+        "Из трудов Гиппократа",
+        "Из рекламы японского шагомера",
+        "Из рекомендаций ВОЗ",
+        "Из нормативов космонавтов"
+      ],
+      "correct": 1,
+      "fact": "В 1960-х в Японии вышел шагомер «Манпо-кэй» — «счётчик 10 000 шагов». Отсюда и пошла норма.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://en.wikipedia.org/wiki/Pedometer"
+    },
+    {
+      "id": "b-crafts-201",
+      "askTo": "boys",
+      "topic": "crafts",
+      "difficulty": 2,
+      "text": "Что такое макраме?",
+      "options": [
+        "Плетение узлами из шнура",
+        "Лепка из солёного теста",
+        "Роспись по стеклу",
+        "Вышивка бисером"
+      ],
+      "correct": 0,
+      "fact": "Макраме любили моряки: в плавании они плели узлами гамаки и ремни, а на берегу продавали их.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://en.wikipedia.org/wiki/Macram%C3%A9"
+    },
+    {
+      "id": "b-crafts-202",
+      "askTo": "boys",
+      "topic": "crafts",
+      "difficulty": 3,
+      "text": "Что такое квиллинг?",
+      "options": [
+        "Шитьё стёганых одеял",
+        "Выжигание узоров по дереву",
+        "Картины из скрученной бумаги",
+        "Вязание на пальцах без спиц"
+      ],
+      "correct": 2,
+      "fact": "Название — от английского слова «перо»: раньше бумажные полоски накручивали на гусиные перья.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://en.wikipedia.org/wiki/Quilling"
+    },
+    {
+      "id": "b-flowers-201",
+      "askTo": "boys",
+      "topic": "flowers",
+      "difficulty": 1,
+      "text": "Какие жёлтые пушистые веточки у нас дарят на 8 Марта?",
+      "options": [
+        "Черёмуху",
+        "Ромашки",
+        "Лаванду",
+        "Мимозу"
+      ],
+      "correct": 3,
+      "fact": "Это не настоящая мимоза, а акация серебристая — её у нас просто привыкли так называть.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://ru.wikipedia.org/wiki/%D0%90%D0%BA%D0%B0%D1%86%D0%B8%D1%8F_%D1%81%D0%B5%D1%80%D0%B5%D0%B1%D1%80%D0%B8%D1%81%D1%82%D0%B0%D1%8F"
+    },
+    {
+      "id": "b-flowers-202",
+      "askTo": "boys",
+      "topic": "flowers",
+      "difficulty": 2,
+      "text": "Как называется японское искусство составлять композиции из цветов?",
+      "options": [
+        "Бонсай",
+        "Икебана",
+        "Оригами",
+        "Хайку"
+      ],
+      "correct": 1,
+      "fact": "Слово складывается из японских «оживлять» и «цветок». Его переводят как «дать цветам жизнь».",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://en.wikipedia.org/wiki/Ikebana"
+    },
+    {
+      "id": "b-wedding-201",
+      "askTo": "boys",
+      "topic": "wedding",
+      "difficulty": 1,
+      "text": "На какой палец в России надевают обручальное кольцо?",
+      "options": [
+        "Безымянный правой руки",
+        "Указательный левой руки",
+        "Средний правой руки",
+        "Мизинец левой руки"
+      ],
+      "correct": 0,
+      "fact": "На Западе кольцо часто носят на левой руке. По старому поверью, от безымянного пальца к сердцу идёт «вена любви».",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://en.wikipedia.org/wiki/Wedding_ring"
+    },
+    {
+      "id": "b-wedding-202",
+      "askTo": "boys",
+      "topic": "wedding",
+      "difficulty": 2,
+      "text": "Как называют друга жениха, который помогает ему на свадьбе?",
+      "options": [
+        "Деверь",
+        "Тамада",
+        "Шафер",
+        "Посажёный отец"
+      ],
+      "correct": 2,
+      "fact": "Слово пришло из немецкого и значит «устроитель». Шафер и правда помогает всё устроить.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D1%84%D0%B5%D1%80"
+    },
+    {
+      "id": "b-babies-201",
+      "askTo": "boys",
+      "topic": "babies",
+      "difficulty": 2,
+      "text": "Сколько обычно весит новорождённый?",
+      "options": [
+        "1–1,5 кг",
+        "3–3,5 кг",
+        "6–7 кг",
+        "9–10 кг"
+      ],
+      "correct": 1,
+      "fact": "В первые дни малыш теряет 7–10% веса — уходит лишняя жидкость — и обычно набирает его снова за две недели.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://kidshealth.org/en/parents/grownewborn.html"
+    },
+    {
+      "id": "b-babies-202",
+      "askTo": "boys",
+      "topic": "babies",
+      "difficulty": 3,
+      "text": "Сколько костей у новорождённого?",
+      "options": [
+        "Около 100",
+        "Около 150",
+        "Около 206",
+        "Около 300"
+      ],
+      "correct": 3,
+      "fact": "Со временем многие кости срастаются, и у взрослого их остаётся 206.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://kidshealth.org/en/kids/bones.html"
+    },
+    {
+      "id": "g-cars-201",
+      "askTo": "girls",
+      "topic": "cars",
+      "difficulty": 1,
+      "text": "Какой дорожный знак водители в шутку называют «кирпичом»?",
+      "options": [
+        "Стоянка запрещена",
+        "Въезд запрещён",
+        "Движение запрещено",
+        "Остановка запрещена"
+      ],
+      "correct": 1,
+      "fact": "«Кирпич» — красный круг с белой полосой. А пустой белый круг с красной каймой — это «Движение запрещено».",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://ru.wiktionary.org/wiki/%D0%BA%D0%B8%D1%80%D0%BF%D0%B8%D1%87"
+    },
+    {
+      "id": "g-cars-202",
+      "askTo": "girls",
+      "topic": "cars",
+      "difficulty": 2,
+      "text": "Как водители называют зимние шины без шипов?",
+      "options": [
+        "Грязевые",
+        "Слики",
+        "Всесезонки",
+        "Липучки"
+      ],
+      "correct": 3,
+      "fact": "«Липучки» держатся за дорогу мягкой резиной и множеством тонких прорезей в протекторе — ламелей.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://ru.wikipedia.org/wiki/%D0%97%D0%B8%D0%BC%D0%BD%D1%8F%D1%8F_%D1%88%D0%B8%D0%BD%D0%B0"
+    },
+    {
+      "id": "g-cars-203",
+      "askTo": "girls",
+      "topic": "cars",
+      "difficulty": 2,
+      "text": "Что называют «кенгурятником» у машины?",
+      "options": [
+        "Защитную дугу перед бампером",
+        "Багажник на крыше",
+        "Детское кресло-люльку",
+        "Решётку для собаки"
+      ],
+      "correct": 0,
+      "fact": "Слово переделали из австралийского «ру-бар»: там такие дуги берегут машину при встрече с кенгуру на дороге.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D0%BD%D0%B3%D1%83%D1%80%D1%8F%D1%82%D0%BD%D0%B8%D0%BA"
+    },
+    {
+      "id": "g-motorcycles-201",
+      "askTo": "girls",
+      "topic": "motorcycles",
+      "difficulty": 1,
+      "text": "Как называется короткая кожаная куртка с косой молнией, любимая байкерами?",
+      "options": [
+        "Бомбер",
+        "Парка",
+        "Косуха",
+        "Ветровка"
+      ],
+      "correct": 2,
+      "fact": "Название — от косой молнии. Первую такую мотоциклетную куртку выпустили в США в 1928 году.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D1%83%D1%85%D0%B0"
+    },
+    {
+      "id": "g-motorcycles-202",
+      "askTo": "girls",
+      "topic": "motorcycles",
+      "difficulty": 2,
+      "text": "Как называется двухколёсный транспорт с маленьким мотором и велосипедными педалями?",
+      "options": [
+        "Питбайк",
+        "Сегвей",
+        "Кастом",
+        "Мопед"
+      ],
+      "correct": 3,
+      "fact": "Слово «мопед» придумали в Швеции из «мотор» и «педаль»; в 1953 году его выбрали на конкурсе названий.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BF%D0%B5%D0%B4"
+    },
+    {
+      "id": "g-tools-201",
+      "askTo": "girls",
+      "topic": "tools",
+      "difficulty": 1,
+      "text": "Как называется измерительная лента с делениями, которая сама сматывается в корпус?",
+      "options": [
+        "Угольник",
+        "Рулетка",
+        "Отвес",
+        "Линейка"
+      ],
+      "correct": 1,
+      "fact": "Крючок на конце рулетки болтается нарочно: он сдвигается на свою толщину, чтобы мерить и с зацепом, и в упор.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://en.wikipedia.org/wiki/Tape_measure"
+    },
+    {
+      "id": "g-tools-202",
+      "askTo": "girls",
+      "topic": "tools",
+      "difficulty": 2,
+      "text": "Как называется гаечный ключ, у которого можно менять ширину зева?",
+      "options": [
+        "Накидной",
+        "Рожковый",
+        "Разводной",
+        "Торцевой"
+      ],
+      "correct": 2,
+      "fact": "Удачную конструкцию разводного ключа в 1891–1892 годах запатентовал шведский изобретатель Юхан Петтер Юханссон.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://en.wikipedia.org/wiki/Johan_Petter_Johansson"
+    },
+    {
+      "id": "g-tools-203",
+      "askTo": "girls",
+      "topic": "tools",
+      "difficulty": 3,
+      "text": "Для чего нужна струбцина?",
+      "options": [
+        "Зажимать детали при склейке",
+        "Гнуть толстые металлические трубы",
+        "Измерять углы стыков",
+        "Резать кафельную плитку"
+      ],
+      "correct": 0,
+      "fact": "Слово немецкое: «шраубцвинге» сложено из «шраубе» — винт и «цвинге» — зажим.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D1%83%D0%B1%D1%86%D0%B8%D0%BD%D0%B0"
+    },
+    {
+      "id": "g-renovation-201",
+      "askTo": "girls",
+      "topic": "renovation",
+      "difficulty": 1,
+      "text": "Что кладут под ламинат, чтобы пол меньше шумел и не скрипел?",
+      "options": [
+        "Наличник",
+        "Штукатурку",
+        "Монтажную сетку",
+        "Подложку"
+      ],
+      "correct": 3,
+      "fact": "Доски ламината соединяются замками, и пол обычно «плавает» на подложке, а не приклеен к основанию.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://en.wikipedia.org/wiki/Laminate_flooring"
+    },
+    {
+      "id": "g-renovation-202",
+      "askTo": "girls",
+      "topic": "renovation",
+      "difficulty": 3,
+      "text": "Зачем при штукатурке стен ставят «маяки»?",
+      "options": [
+        "Чтобы стена вышла ровной",
+        "Чтобы стена дышала",
+        "Чтобы отметить проводку в стене",
+        "Чтобы штукатурка не трескалась"
+      ],
+      "correct": 0,
+      "fact": "Маяки — рейки или профили, выставленные строго по уровню: по ним ведут правилом и срезают лишний раствор.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://ru.wikipedia.org/wiki/%D0%A8%D1%82%D1%83%D0%BA%D0%B0%D1%82%D1%83%D1%80%D0%BA%D0%B0"
+    },
+    {
+      "id": "g-electrics-plumbing-201",
+      "askTo": "girls",
+      "topic": "electrics-plumbing",
+      "difficulty": 1,
+      "text": "Как называется резиновая чаша на ручке, которой прочищают засор в раковине?",
+      "options": [
+        "Ёршик",
+        "Скребок",
+        "Вантуз",
+        "Шпатель"
+      ],
+      "correct": 2,
+      "fact": "Вантуз сначала давит на воду в трубе, а при рывке назад создаёт разрежение — засор раскачивается и уходит.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://en.wikipedia.org/wiki/Plunger"
+    },
+    {
+      "id": "g-electrics-plumbing-202",
+      "askTo": "girls",
+      "topic": "electrics-plumbing",
+      "difficulty": 2,
+      "text": "Какого цвета обычно провод заземления в домашней проводке?",
+      "options": [
+        "Синего",
+        "Жёлто-зелёного",
+        "Красного",
+        "Коричневого"
+      ],
+      "correct": 1,
+      "fact": "Заземление уводит ток в землю, если провод внутри прибора коснётся корпуса, — и бережёт от удара током.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%B7%D0%B5%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5"
+    },
+    {
+      "id": "g-football-201",
+      "askTo": "girls",
+      "topic": "football",
+      "difficulty": 1,
+      "text": "С какого расстояния от ворот бьют пенальти?",
+      "options": [
+        "11 метров",
+        "9 метров",
+        "16 метров",
+        "5 метров"
+      ],
+      "correct": 0,
+      "fact": "Пенальти ввели в правила футбола в 1891 году; в России его так и зовут — «одиннадцатиметровый».",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BD%D0%B0%D0%BB%D1%8C%D1%82%D0%B8"
+    },
+    {
+      "id": "g-football-202",
+      "askTo": "girls",
+      "topic": "football",
+      "difficulty": 2,
+      "text": "Что такое «Золотой мяч» в футболе?",
+      "options": [
+        "Мяч для финала чемпионата мира",
+        "Награда за самый быстрый гол",
+        "Кубок лучшему клубу Европы",
+        "Приз лучшему футболисту года"
+      ],
+      "correct": 3,
+      "fact": "Его с 1956 года вручает французский журнал «Франс Футбол»; первым лауреатом стал англичанин Стэнли Мэттьюз.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://ru.wikipedia.org/wiki/%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B9_%D0%BC%D1%8F%D1%87"
+    },
+    {
+      "id": "g-hockey-sports-201",
+      "askTo": "girls",
+      "topic": "hockey-sports",
+      "difficulty": 2,
+      "text": "Из чего делают шайбу для хоккея на льду?",
+      "options": [
+        "Из дерева",
+        "Из резины",
+        "Из пробки",
+        "Из кожи"
+      ],
+      "correct": 1,
+      "fact": "Перед матчем шайбы замораживают: холодная шайба меньше подпрыгивает на льду.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://en.wikipedia.org/wiki/Hockey_puck"
+    },
+    {
+      "id": "g-hockey-sports-202",
+      "askTo": "girls",
+      "topic": "hockey-sports",
+      "difficulty": 3,
+      "text": "Сколько лунок на стандартном поле для гольфа?",
+      "options": [
+        "9",
+        "12",
+        "18",
+        "24"
+      ],
+      "correct": 2,
+      "fact": "Стандарт пошёл от Сент-Эндрюса в Шотландии: в 1764 году там переделали поле из 22 лунок в 18.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://en.wikipedia.org/wiki/Old_Course_at_St_Andrews"
+    },
+    {
+      "id": "g-martial-arts-201",
+      "askTo": "girls",
+      "topic": "martial-arts",
+      "difficulty": 1,
+      "text": "Как называется японская борьба, где тяжёлые борцы выталкивают друг друга из круга?",
+      "options": [
+        "Айкидо",
+        "Кендо",
+        "Сумо",
+        "Карате"
+      ],
+      "correct": 2,
+      "fact": "Высший титул в сумо — ёкодзуна. За всю историю его получили меньше 80 борцов.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://ru.wikipedia.org/wiki/%D0%81%D0%BA%D0%BE%D0%B4%D0%B7%D1%83%D0%BD%D0%B0"
+    },
+    {
+      "id": "g-martial-arts-202",
+      "askTo": "girls",
+      "topic": "martial-arts",
+      "difficulty": 3,
+      "text": "Какое единоборство называют «боем восьми конечностей»?",
+      "options": [
+        "Муай-тай",
+        "Кикбоксинг",
+        "Ушу",
+        "Кудо"
+      ],
+      "correct": 0,
+      "fact": "«Восемь конечностей» — это кулаки, локти, колени и голени: в тайском боксе бьют всеми.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B1%D0%BE%D0%BA%D1%81"
+    },
+    {
+      "id": "g-gym-201",
+      "askTo": "girls",
+      "topic": "gym",
+      "difficulty": 1,
+      "text": "Как в зале называют серию повторений упражнения, после которой отдыхают?",
+      "options": [
+        "Раунд",
+        "Тайм",
+        "Отрезок",
+        "Подход"
+      ],
+      "correct": 3,
+      "fact": "Запись «3 по 10» в программе тренировки значит три подхода по десять повторений с отдыхом между ними.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://en.wikipedia.org/wiki/Strength_training"
+    },
+    {
+      "id": "g-gym-202",
+      "askTo": "girls",
+      "topic": "gym",
+      "difficulty": 2,
+      "text": "Какая мышца самая большая в теле человека?",
+      "options": [
+        "Широчайшая мышца спины",
+        "Большая ягодичная",
+        "Икроножная",
+        "Дельтовидная"
+      ],
+      "correct": 1,
+      "fact": "Её размер связан с прямохождением: именно большая ягодичная помогает человеку держать туловище прямо.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://en.wikipedia.org/wiki/Gluteus_maximus"
+    },
+    {
+      "id": "g-weapons-201",
+      "askTo": "girls",
+      "topic": "weapons",
+      "difficulty": 1,
+      "text": "Как называется метательное оружие, которое при промахе может вернуться к бросившему?",
+      "options": [
+        "Бумеранг",
+        "Метательный нож",
+        "Дротик",
+        "Аркан"
+      ],
+      "correct": 0,
+      "fact": "Возвращаются не все: многие охотничьи бумеранги летели прямо. Бумеранги обоих видов нашли даже в гробнице Тутанхамона.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%BC%D0%B5%D1%80%D0%B0%D0%BD%D0%B3"
+    },
+    {
+      "id": "g-weapons-202",
+      "askTo": "girls",
+      "topic": "weapons",
+      "difficulty": 2,
+      "text": "Как называется японская метательная звёздочка?",
+      "options": [
+        "Нунчаки",
+        "Танто",
+        "Вакидзаси",
+        "Сюрикен"
+      ],
+      "correct": 3,
+      "fact": "По-японски «сю» — рука, «ри» — скрытая сторона, «кэн» — меч: такое оружие носили незаметно.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://ru.wikipedia.org/wiki/%D0%A1%D1%8E%D1%80%D0%B8%D0%BA%D1%8D%D0%BD"
+    },
+    {
+      "id": "g-army-201",
+      "askTo": "girls",
+      "topic": "army",
+      "difficulty": 1,
+      "text": "Как называется матросский головной убор с ленточками сзади?",
+      "options": [
+        "Пилотка",
+        "Бескозырка",
+        "Фуражка",
+        "Берет"
+      ],
+      "correct": 1,
+      "fact": "Название простое: у неё нет козырька. На ленте пишут название флота или корабля.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%81%D0%BA%D0%BE%D0%B7%D1%8B%D1%80%D0%BA%D0%B0"
+    },
+    {
+      "id": "g-army-202",
+      "askTo": "girls",
+      "topic": "army",
+      "difficulty": 3,
+      "text": "Что значит английское слово «танк», от которого назвали боевую машину?",
+      "options": [
+        "Черепаха",
+        "Броненосец",
+        "Бак, цистерна",
+        "Ползучая крепость"
+      ],
+      "correct": 2,
+      "fact": "Первые машины в 1916 году для секретности выдавали за топливные цистерны — так название и прижилось.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BD%D0%BA"
+    },
+    {
+      "id": "g-computers-201",
+      "askTo": "girls",
+      "topic": "computers",
+      "difficulty": 2,
+      "text": "Как называется главная плата компьютера, к которой подключают все остальные детали?",
+      "options": [
+        "Видеокарта",
+        "Звуковая карта",
+        "Сетевая карта",
+        "Материнская плата"
+      ],
+      "correct": 3,
+      "fact": "В обиходе её зовут коротко — «материнка» или даже «мать».",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%BB%D0%B0%D1%82%D0%B0"
+    },
+    {
+      "id": "g-computers-202",
+      "askTo": "girls",
+      "topic": "computers",
+      "difficulty": 2,
+      "text": "Как программисты называют ошибку в программе?",
+      "options": [
+        "Баг",
+        "Патч",
+        "Билд",
+        "Скрипт"
+      ],
+      "correct": 0,
+      "fact": "«Баг» по-английски — «жук». В 1947 году сбой в компьютере «Марк II» вызвала моль, застрявшая в реле.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://en.wikipedia.org/wiki/Software_bug"
+    },
+    {
+      "id": "g-videogames-201",
+      "askTo": "girls",
+      "topic": "videogames",
+      "difficulty": 1,
+      "text": "Какой жёлтый круглый герой видеоигры ест точки в лабиринте и убегает от привидений?",
+      "options": [
+        "Покемон",
+        "Колобок",
+        "Пакман",
+        "Смурфик"
+      ],
+      "correct": 2,
+      "fact": "По легенде, его создатель Тору Иватани придумал героя, глядя на пиццу без одного куска.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://ru.wikipedia.org/wiki/Pac-Man"
+    },
+    {
+      "id": "g-videogames-202",
+      "askTo": "girls",
+      "topic": "videogames",
+      "difficulty": 2,
+      "text": "Как зовут главного героя игр и сериала «Ведьмак»?",
+      "options": [
+        "Лютик",
+        "Геральт",
+        "Цири",
+        "Йеннифэр"
+      ],
+      "correct": 1,
+      "fact": "Героя придумал польский писатель Анджей Сапковский; первая игра по его книгам вышла в 2007 году.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D1%82_%D0%B8%D0%B7_%D0%A0%D0%B8%D0%B2%D0%B8%D0%B8"
+    },
+    {
+      "id": "g-gadgets-201",
+      "askTo": "girls",
+      "topic": "gadgets",
+      "difficulty": 1,
+      "text": "Как зовут голосового помощника «Яндекса»?",
+      "options": [
+        "Маруся",
+        "Алиса",
+        "Сири",
+        "Салют"
+      ],
+      "correct": 1,
+      "fact": "Голос Алисе дала актриса Татьяна Шитова — она же озвучивает Скарлетт Йоханссон в русском дубляже.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B8%D1%82%D0%BE%D0%B2%D0%B0,_%D0%A2%D0%B0%D1%82%D1%8C%D1%8F%D0%BD%D0%B0_%D0%98%D0%B3%D0%BE%D1%80%D0%B5%D0%B2%D0%BD%D0%B0"
+    },
+    {
+      "id": "g-gadgets-202",
+      "askTo": "girls",
+      "topic": "gadgets",
+      "difficulty": 2,
+      "text": "Что обозначают миллиампер-часы (мА·ч) в описании телефона?",
+      "options": [
+        "Мощность зарядки",
+        "Яркость экрана",
+        "Громкость динамика",
+        "Ёмкость аккумулятора"
+      ],
+      "correct": 3,
+      "fact": "У первого айфона батарея была на 1400 мА·ч, а у нынешних смартфонов часто 4000–5000.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://en.wikipedia.org/wiki/IPhone_(1st_generation)"
+    },
+    {
+      "id": "g-meat-grill-201",
+      "askTo": "girls",
+      "topic": "meat-grill",
+      "difficulty": 1,
+      "text": "Как называется металлический ящик на ножках, в котором жгут угли для шашлыка?",
+      "options": [
+        "Мангал",
+        "Казан",
+        "Тандыр",
+        "Мармит"
+      ],
+      "correct": 0,
+      "fact": "На Ближнем Востоке мангал — медная чаша с углями: на её крышке грели еду, а иногда, накрыв одеялом, грелись сами.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D0%B3%D0%B0%D0%BB"
+    },
+    {
+      "id": "g-meat-grill-202",
+      "askTo": "girls",
+      "topic": "meat-grill",
+      "difficulty": 2,
+      "text": "Из какого мяса делают испанский хамон?",
+      "options": [
+        "Из говядины",
+        "Из баранины",
+        "Из свинины",
+        "Из козлятины"
+      ],
+      "correct": 2,
+      "fact": "Хамон иберико делают из чёрных иберийских свиней; самых ценных откармливают на желудях.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BC%D0%BE%D0%BD"
+    },
+    {
+      "id": "g-fishing-201",
+      "askTo": "girls",
+      "topic": "fishing",
+      "difficulty": 1,
+      "text": "Как называют червяка или опарыша, которого насаживают на крючок?",
+      "options": [
+        "Прикормка",
+        "Поплавок",
+        "Мормышка",
+        "Наживка"
+      ],
+      "correct": 3,
+      "fact": "Приманку животного происхождения рыбаки зовут наживкой, а растительную — хлеб, тесто, кашу — насадкой.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%BC%D0%B0%D0%BD%D0%BA%D0%B0"
+    },
+    {
+      "id": "g-fishing-202",
+      "askTo": "girls",
+      "topic": "fishing",
+      "difficulty": 3,
+      "text": "Как называется ловля, когда приманку тянут на леске за плывущей лодкой?",
+      "options": [
+        "Троллинг",
+        "Фидер",
+        "Джиг",
+        "Донка"
+      ],
+      "correct": 0,
+      "fact": "Если лодка вёсельная, такую ловлю по-русски зовут «дорожкой».",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D0%BB%D0%BB%D0%B8%D0%BD%D0%B3_(%D1%80%D1%8B%D0%B1%D0%BD%D0%B0%D1%8F_%D0%BB%D0%BE%D0%B2%D0%BB%D1%8F)"
+    },
+    {
+      "id": "g-hiking-201",
+      "askTo": "girls",
+      "topic": "hiking",
+      "difficulty": 1,
+      "text": "Что надёжнее всего сделать с водой из лесного ручья, прежде чем её пить?",
+      "options": [
+        "Дать воде отстояться",
+        "Вскипятить",
+        "Набрать на быстром течении",
+        "Процедить через марлю"
+      ],
+      "correct": 1,
+      "fact": "Чем выше в горах, тем ниже температура кипения: на вершине Эвереста вода закипает уже при 69 °C.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0_%D0%BA%D0%B8%D0%BF%D0%B5%D0%BD%D0%B8%D1%8F"
+    },
+    {
+      "id": "g-hiking-202",
+      "askTo": "girls",
+      "topic": "hiking",
+      "difficulty": 2,
+      "text": "Какую звезду ищут на ночном небе, чтобы найти север?",
+      "options": [
+        "Сириус",
+        "Вегу",
+        "Полярную",
+        "Альдебаран"
+      ],
+      "correct": 2,
+      "fact": "Её находят по ковшу Большой Медведицы: через две крайние звезды ковша ведут линию и откладывают их расстояние пять раз.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D1%8F%D1%80%D0%BD%D0%B0%D1%8F_%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0"
+    },
+    {
+      "id": "g-hiking-203",
+      "askTo": "girls",
+      "topic": "hiking",
+      "difficulty": 3,
+      "text": "Что такое «паракорд»?",
+      "options": [
+        "Прочный парашютный шнур",
+        "Складная пила-цепочка",
+        "Налобный фонарь",
+        "Компас-браслет"
+      ],
+      "correct": 0,
+      "fact": "Шнур выдерживает около 250 кг. Из него плетут браслеты, которые в походе можно распустить на верёвку.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://en.wikipedia.org/wiki/Parachute_cord"
+    },
+    {
+      "id": "g-aviation-space-201",
+      "askTo": "girls",
+      "topic": "aviation-space",
+      "difficulty": 1,
+      "text": "Какие собаки первыми слетали на орбиту и вернулись на Землю живыми?",
+      "options": [
+        "Пчёлка и Мушка",
+        "Лайка и Найда",
+        "Жучка и Каштанка",
+        "Белка и Стрелка"
+      ],
+      "correct": 3,
+      "fact": "Они летали 19–20 августа 1960 года. Вместе с ними на орбите побывали 40 мышей, 2 крысы, насекомые и растения.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D0%BA%D0%B0_%D0%B8_%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D0%BA%D0%B0"
+    },
+    {
+      "id": "g-aviation-space-202",
+      "askTo": "girls",
+      "topic": "aviation-space",
+      "difficulty": 2,
+      "text": "Сколько примерно идёт свет от Солнца до Земли?",
+      "options": [
+        "Около 8 секунд",
+        "Около 8 часов",
+        "Около 8 минут",
+        "Около 8 дней"
+      ],
+      "correct": 2,
+      "fact": "Точнее, около 8 минут 20 секунд. Так что Солнце мы видим таким, каким оно было несколько минут назад.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://ru.wikipedia.org/wiki/%D0%90%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B5%D0%B4%D0%B8%D0%BD%D0%B8%D1%86%D0%B0"
+    },
+    {
+      "id": "g-aviation-space-203",
+      "askTo": "girls",
+      "topic": "aviation-space",
+      "difficulty": 3,
+      "text": "Сколько раз за сутки МКС облетает Землю?",
+      "options": [
+        "Около 2",
+        "Около 16",
+        "Около 6",
+        "Около 40"
+      ],
+      "correct": 1,
+      "fact": "Один виток занимает около полутора часов, поэтому экипаж за сутки видит около 16 восходов и закатов.",
+      "image": null,
+      "imageCredit": null,
+      "source": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F"
+    }
+  ]
+}

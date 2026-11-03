@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "packs": [
+    {
+      "id": "p2",
+      "title": "Набор 2",
+      "file": "packs/p2.json",
+      "sha256": "b3a734a30383126e2495c70598f362022000fb16042dd7f905d081a14e0b0bab",
+      "bytes": 59968,
+      "images": []
+    }
+  ]
+}
